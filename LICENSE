@@ -1,6 +1,6 @@
-                                 Apache License (Extended by SuperWRT)
-                           Version 2.0, January 2004
-                        https://github.com/superwrt/sdhcpv6/blob/master/LICENSE
+                                SuperWRT License
+                           Version 1.0, May 2019
+                        http://www.superwrt.org/licenses/
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
@@ -179,10 +179,10 @@
 
    END OF TERMS AND CONDITIONS
 
-   APPENDIX: How to apply the Apache License to your work.
+   APPENDIX: How to apply the SuperWRT License to your work.
 
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
+      To apply the SuperWRT License to your work, attach the following
+      boilerplate notice, with the fields enclosed by brackets "{}"
       replaced with your own identifying information. (Don't include
       the brackets!)  The text should be enclosed in the appropriate
       comment syntax for the file format. We also recommend that a
@@ -190,13 +190,13 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright {yyyy} {name of copyright owner}
 
-   Licensed under the Apache License, Version 2.0 (the "License");
+   Licensed under the SuperWRT License, Version 1.0 (the "License");
    you may not use this file except in compliance with the License.
    You may obtain a copy of the License at
 
-       https://github.com/superwrt/sdhcpv6/blob/master/LICENSE
+       http://www.superwrt.org/licenses/LICENSE-1.0
 
    Unless required by applicable law or agreed to in writing, software
    distributed under the License is distributed on an "AS IS" BASIS,
